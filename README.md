@@ -28,11 +28,11 @@
 
 ## **Experiência e Conquistas** 
 <div align="center">
-  <a href="https://github.com/myllenefms/myllenefms">
+  <a href="https://github.com/myllenemendes/myllenemendes">
   <img height="180" width="180" src="https://hermes.digitalinnovation.one/tracks/94bed9ab-616c-4982-8a98-a6150ece419c.png"/>
   <img height="180" width="180" src="https://cdn.worldvectorlogo.com/logos/albert-einstein.svg"/>
   <img height="180" width="180" src="https://triibo.com.br/wp-content/uploads/2022/05/Mapfre-Logo.png"/>
-    <a href="https://avanade.sharepoint.com/sites/Celebrations?Country=Brazil">
+    <a href="https://www.linkedin.com/posts/myllenefms_togetherwecelebrateus-promotion-decolatech-activity-7203471725982879745-_WqZ?utm_source=share&utm_medium=member_desktop">
     <img height="180" width="180" src="https://media.licdn.com/dms/image/v2/D562DAQH2An49OWhEwg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719361580301?e=1729278000&v=beta&t=5mSbX-CBdHOMQEcWdem-63001VgDkZyMgQRWMajqc90"/>
 </div>
 
@@ -40,6 +40,7 @@
 ## **Contatos e Links**
 
 <div align="center">
-    <a href="mailto:myllene.mendes@avanade.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-005FF9?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+    <a href="mailto:myllene.mendes@avanade.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-005FF9?style=for-the-badge&logo=mailboxdotorg&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/myllenefms/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/myllenefms/myllenefms" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
